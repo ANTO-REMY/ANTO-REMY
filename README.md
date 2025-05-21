@@ -50,10 +50,5 @@ I'm a dedicated full stack developer.<br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTO-REMY&layout=compact&hide=python,cmake,powershell,shell&langs_count=10&theme=merko&card_width=450&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
    
