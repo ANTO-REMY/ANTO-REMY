@@ -47,7 +47,7 @@ I'm a dedicated full stack developer.<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTO-REMY&theme=merko&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide=prs&custom_title=My%20GitHub%20Stats&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&icon_color=2ECC40)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTO-REMY&layout=compact&hide=python,cmake,powershell,shell&langs_count=10&theme=merko&card_width=450&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTO-REMY&layout=compact&hide=c,objective-c,cmake,powershell,shell,cpp&langs_count=10&theme=merko&card_width=450&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
