@@ -22,7 +22,6 @@ I'm a dedicated full stack developer.<br/>
 - **Java** – backend development, object-oriented development
 - **Dart** – Mobile app development with Flutter  
 - **SQL** – Database design and querying (PostgreSQL, MySQL, MongoDB)  
-- **Bash/Shell** – System scripting, task automation 
 - **Golang** – Backend APIs, concurrency and microservices 
 
 
