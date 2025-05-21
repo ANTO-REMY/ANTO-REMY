@@ -14,6 +14,39 @@ I'm a dedicated full stack developer.<br/>
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+### 🧠 Technical Proficiencies
+
+- **Python** – Automation, scripting, web apps (Flask/Django)  
+- **JavaScript/TypeScript** – Frontend (React, Next.js), Backend (Node.js)  
+- **Java** – General-purpose & backend development  
+- **Dart** – Mobile app development with Flutter  
+- **SQL** – Database design and querying (PostgreSQL, MySQL)  
+- **HTML5/CSS3** – Frontend UI/UX, responsive design  
+- **Bash/Shell** – Scripting and automation on Linux/Unix systems  
+- **Golang** – Backend APIs and concurrency  
+
+### ⚙️ Frameworks & Libraries
+
+- React, Next.js, Node.js  
+- Flask  
+- Flutter  
+
+### 🚀 DevOps & Cloud
+
+- **CI/CD Pipelines:** GitHub Actions
+- **Configuration Management:** Ansible  
+- **Containerization:** Docker, Docker Compose  
+- **Version Control:** Git, GitHub  
+- **Monitoring:** CloudWatch, OpenSearch  
+
+### 🔐 System Design & Security
+
+- Automation Tools: Bash/Shell scripting, Python scripting  
+- High Availability & Scalability Design  
+- Containers & Orchestration: Docker, Kubernetes, Amazon ECS/EKS  
+- Security Concepts: Secure architecture design, network security, penetration testing basics  
+
+
 
 # 📊 GitHub Stats:
 
