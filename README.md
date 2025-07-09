@@ -35,8 +35,7 @@ I'm a dedicated full stack developer.<br/>
 ### 🔐 System Design & Security
 
 - Automation Tools: Bash/Shell scripting, Python scripting  
-- High Availability & Scalability Design  
-- Containers & Orchestration: Docker, Kubernetes, Amazon ECS/EKS  
+- Containers & Orchestration: Docker, Kubernetes
 - Security Concepts: Secure architecture design, network security, penetration testing basics  
 
 
