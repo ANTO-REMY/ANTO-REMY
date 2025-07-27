@@ -1,9 +1,8 @@
 ## Hello, I'm Anthony<br/>
 
 Applied Computer Science Student at Daystar University.<br/>
-Actively Building on skills .<br/>
 I'm a dedicated Junior Fullstack Developer.<br/>
-
+Actively Building on skills .<br/>
 
 
 ## 🌐 Socials:
