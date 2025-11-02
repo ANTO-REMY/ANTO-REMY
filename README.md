@@ -15,10 +15,10 @@ Actively Building on skills .<br/>
 
 ### 🧠 Technical Proficiencies
 
-- **HTML5/CSS3** – Frontend UI/UX 
+- **Tailwind CSS** – Frontend UI/UX 
 - **Python** – Automation scripting , data manipulation , Rest Apis & Framework(Flask)
 - **TypeScript** – Frontend (React, Next.js), Backend (Node.js)  
-- **Java** – backend development, object-oriented development
+- **Kotlin** – Mobile Dev
 - **Dart** – Mobile app development with Flutter  
 - **SQL** – Database design and querying (PostgreSQL, MySQL, MongoDB)  
 - **Golang** – Backend APIs, concurrency and microservices 
