@@ -20,7 +20,7 @@ Actively Building on skills .<br/>
 - **TypeScript** – Frontend (React, Next.js), Backend (Node.js)  
 - **Kotlin** – Mobile Dev
 - **Dart** – Mobile app development with Flutter  
-- **SQL** – Database design and querying (PostgreSQL, MySQL, MongoDB)  
+- **SQL** – Database design and querying (PostgreSQL, MySQL)  
 - **Golang** – Backend APIs, concurrency and microservices 
 
 
@@ -35,7 +35,7 @@ Actively Building on skills .<br/>
 
 - Automation Tools: Bash/Shell scripting, Python scripting  
 - Containers & Orchestration: Docker, Kubernetes
-- Security Concepts: Secure architecture design, network security, penetration testing basics  
+- Security Concepts: Secure architecture design, network security 
 
 
 
