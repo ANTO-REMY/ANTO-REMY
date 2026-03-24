@@ -1,3 +1,6 @@
+
+<img width="1913" height="518" alt="github-header-banner" src="https://github.com/user-attachments/assets/a64ea810-e023-47f2-853e-98796439078f" />
+
 ## Hello, I'm Anthony<br/>
 
 Applied Computer Science Student at Daystar University.<br/>
