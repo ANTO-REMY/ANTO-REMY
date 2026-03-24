@@ -44,6 +44,6 @@ Actively Building on skills .<br/>
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTO-REMY&theme=merko&hide_border=true&count_private=false&show_icons=true&custom_title=My%20GitHub%20Stats&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&icon_color=2ECC40&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTO-REMY&theme=merko&hide_border=true&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&icon_color=2ECC40&cache_seconds=1800)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTO-REMY&layout=compact&hide=cmake,PLpgSQL,powershell,c,objective-c,cpp,perl,blade&langs_count=10&theme=merko&card_width=450&title_color=2ECC40&text_color=ADEFD1&bg_color=091f1c&border_radius=10&hide_border=true&exclude_repo=M-tracker-2.0,budgetpro&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
